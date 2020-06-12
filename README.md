@@ -115,6 +115,8 @@ To see an overview of all available options, use `-h` / `--help`:
 ./build/openc2e --help
 ```
 
+Most users won't need to use any of the other flags.
+
 ### Choosing a specific engine to emulate
 
 You can tell openc2e to run as a specific game type with the `-g` / `--gametype` flag. The following values are supported:
